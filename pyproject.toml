@@ -1,0 +1,10 @@
+[project]
+name = "question-frequency"
+version = "0.1.0"
+description = "Count how often topics appear across your own list of past papers (counts only)"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
