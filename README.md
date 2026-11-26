@@ -1,4 +1,6 @@
-# question-frequency
+# PYTHIA: Predicting Your Top High-Impact Asks
+
+Formerly `question-frequency`.
 
 Count how often topics appear across a list of past papers you keep yourself. Counts only.
 
